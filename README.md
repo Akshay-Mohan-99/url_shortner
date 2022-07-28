@@ -10,7 +10,7 @@ UI :
 
 It has basic features like adding a new long URL and generating its corresponding small url or deleting the same. 
 
-For insight about the Backend code and architecture you can checkout frontend repo : https://github.com/Akshay-Mohan-99/url_shortner_backend
+For insight about the Backend code and architecture you can checkout backend repo : https://github.com/Akshay-Mohan-99/url_shortner_backend
 
 Hope you learn and got an idea about the overall working of the application. 
 
